@@ -3,7 +3,8 @@
 ## 📌 Architecture Diagram
 The following diagram illustrates the proposed AWS architecture for a scalable and highly available web application:
 
-![AWS Architecture](aws.project.png.png)
+![AWS Architecture](diagram
+.png)
 
 ---
 
